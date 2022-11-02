@@ -1,0 +1,19 @@
+.loader {
+    font-size: 3em;
+    width: 50%;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.result-table {
+    width: 25%;
+    text-align: left;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hidden {
+    display: none;
+}
